@@ -18,8 +18,3 @@ Additionally, if you are working in Jupyter or want to see the progress of the t
 ```bash
 pip install tqdm
 ```
-# AI Model Testing
-
-This project was created for my AI voice assistant
-The model should accept commands and then execute the necessary commands
-
